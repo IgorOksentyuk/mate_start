@@ -1,2 +1,2 @@
-- [Preview](https://github.com/IgorOksentyuk/mate_start/)
+- [Preview](https://stately-halva-9efda9.netlify.app/)
 - [Pull Request](https://github.com/IgorOksentyuk/mate_start/pull/1/files)
